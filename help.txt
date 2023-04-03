@@ -1,0 +1,9 @@
+:::HELP:::
+n) Afficher la taille et le nombre des fichiers modifiers de moins de 24 heures
+a) Archiver les fichiers modifiers de moins de 24 heures
+r) Renommer l'archive en date de modification
+s) Sauvegarder la liste des fichier dans un fichier
+h) HELP
+g) Menu Graphique
+m) Menu textuelle
+v) Version

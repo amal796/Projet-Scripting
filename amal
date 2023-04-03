@@ -1,0 +1,10 @@
+-rw-rw-r-- ak/ak            36 2022-03-07 06:38 tmp
+drwxrwxr-x ak/ak             0 2022-03-07 10:12 ./
+-rwxrwxrwx ak/ak           384 2022-03-07 06:36 ./sauvegarde.sh
+-rwxrwxrwx ak/ak           902 2022-03-07 10:11 ./fonctions.sh
+-rwxrwxrwx ak/ak           301 2022-03-07 06:36 ./help.txt
+-rw-rw-r-- ak/ak           475 2022-03-07 06:38 ./dd
+-rwxrwxrwx ak/ak           384 2022-03-07 06:36 ./sauvegarde.sh
+-rwxrwxrwx ak/ak           902 2022-03-07 10:11 ./fonctions.sh
+-rwxrwxrwx ak/ak           301 2022-03-07 06:36 ./help.txt
+-rw-rw-r-- ak/ak           475 2022-03-07 06:38 ./dd
